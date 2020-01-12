@@ -1,3 +1,6 @@
 [submodule "personal-web"]
 	path = personal-web
 	url = https://github.com/bjacquemet/personal-web.git
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = git@github.com:shenoybr/hugo-goa.git
