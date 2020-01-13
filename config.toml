@@ -75,7 +75,7 @@ poweredby = false
 highlightjs = true
 socialmarkup = true
 toc = true
-displayrssicon = true
+displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
@@ -84,7 +84,7 @@ displayrssicon = true
     weight = 200
     url = "/whoami/"
 [[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
+    name = "imprint"
+    identifier = "imprint"
     weight = 300
-    url = "/coderag/"
+    url = "/imprint/"
