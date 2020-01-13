@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Philip Barwikowski"
 intro = "IT Security Specialist"
-description = "Webapplication security and AWS Cloudsecurity"
+description = "Sepcialized on webapplication- and AWS Cloudsecurity"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
