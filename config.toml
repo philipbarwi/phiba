@@ -79,15 +79,10 @@ displayrssicon = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
+    name = "whoami"
+    identifier = "whoami"
     weight = 200
-    url = "/about/"
+    url = "/whoami/"
 [[menu.main]]
     name = "coderag"
     identifier = "coderag"
