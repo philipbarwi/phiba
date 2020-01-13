@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Philip Barwikowski"
-intro = "IT Security Specialist with focus on webapplication and cloudsecurity"
-description = "Currently working at Otto GmbH & Co. KG"
+intro = "IT Security Specialist"
+description = "Webapplication security and AWS Cloudsecurity"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
